@@ -14,9 +14,9 @@ links:
       name: Midterm solution
 ---
 **Suggested Readings:**
-- [Notebook_ch6](https://github.com/phonchi/nsysu-math208/blob/main/static_files/presentations/06_Recursion.ipynb)
-- [Exercise 6](https://github.com/phonchi/nsysu-math208/blob/main/static_files/presentations/Ch6.ipynb)
-- [Exercise 6_sol](https://github.com/phonchi/nsysu-math208/blob/main/static_files/presentations/Ch6_sol.ipynb)
+- [Notebook_ch6](https://github.com/phonchi/nsysu-math208-2025/blob/main/static_files/presentations/06_Recursion.ipynb)
+- [Exercise 6](https://github.com/phonchi/nsysu-math208-2025/blob/main/static_files/presentations/Ch6.ipynb)
+- [Exercise 6_sol](https://github.com/phonchi/nsysu-math208-2025/blob/main/static_files/presentations/Ch6_sol.ipynb)
 - Textbook Chapter 4
 - [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-87_x0UNwUO4b8MLx1ITL51K)
 
