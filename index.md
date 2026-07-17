@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Please see the course syllabus [here](/nsysu-math208/static_files/presentations/course_outline.pdf).
+Please see the course syllabus [here](/nsysu-math208-2025/static_files/presentations/course_outline.pdf).
 
 Join our [Facebook Group](https://www.facebook.com/groups/1582349499475537) to discuss courses and get the timely notification.
 
